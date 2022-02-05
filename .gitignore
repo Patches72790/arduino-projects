@@ -1,0 +1,6 @@
+.vscode/**/*
+LiquidCrystal
+avr
+arduino
+standard
+*.out
